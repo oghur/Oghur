@@ -1,5 +1,5 @@
 ## Welcome
-## This is S.Uğur "Oghur" Tavukçu
+
 <br />
 
 ---
