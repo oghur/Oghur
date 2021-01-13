@@ -1,7 +1,4 @@
 ## Welcome
-
-<br />
-
 ---
 ## Contact Me :
 
