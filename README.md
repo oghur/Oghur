@@ -1,4 +1,4 @@
-## Welcome | This is S.U.Tavukçu a.k.a "Oghur"
+## Welcome | This is Oghur...
 ## Contact Me :
 
 [<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
