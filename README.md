@@ -35,5 +35,5 @@
 
 
 
-[instagram]: https://www.instagram.com/utvkc/
+[instagram]: https://www.instagram.com/s.ugurtavukcu/
 [linkedin]:  https://www.linkedin.com/in/oghur/
