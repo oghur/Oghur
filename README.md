@@ -32,5 +32,5 @@
 
 
 
-[instagram]: https://www.instagram.com/s.ugurtavukcu/
+[instagram]: https://www.instagram.com/oghuric/
 [linkedin]:  https://www.linkedin.com/in/oghur/
